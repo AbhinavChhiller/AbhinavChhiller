@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AbhinavChhiller
 - 👀 I’m interested in Software/ Web developent.
 - 🌱 I’m currently learning MERN Stack.
-- 📫 How to reach me ... mail me at chaudharyabhi651@gmail.com
+- 📫 How to reach me ... mail me at abhinavchhiller@gmail.com
 
 <!---
 AbhinavChhiller/AbhinavChhiller is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
