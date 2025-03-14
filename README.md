@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AbhinavChhiller
 - 👀 I’m interested in Software/ Web developent.
-- 🌱 I’m currently learning MERN Stack.
+- 🌱 I’m currently working as a  FullStack Developer.
 - 📫 How to reach me ... mail me at abhinavchhiller@gmail.com
 
 <!---
